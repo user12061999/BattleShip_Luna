@@ -1,0 +1,11 @@
+Model Information:
+* title:	12.7 cm/40 (5") Type 89
+* source:	https://sketchfab.com/3d-models/127-cm40-5-type-89-eea876d98dd24867b440a32add7344c6
+* author:	ThomasBeerens (https://sketchfab.com/ThomasBeerens)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "12.7 cm/40 (5") Type 89" (https://sketchfab.com/3d-models/127-cm40-5-type-89-eea876d98dd24867b440a32add7344c6) by ThomasBeerens (https://sketchfab.com/ThomasBeerens) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
